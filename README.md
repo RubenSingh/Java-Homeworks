@@ -1,2 +1,2 @@
 # Java-Homeworks
-Homeworks from the java class
+Homeworks for java class
